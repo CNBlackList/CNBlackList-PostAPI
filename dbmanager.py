@@ -3,7 +3,7 @@ import datetime
 
 class DBManager:
 
-    def __init__(cwd = None):
+    def __init__(self, cwd = None):
         if cwd == None:
             self.CWD = '/usr/local/postapi'
         else:
