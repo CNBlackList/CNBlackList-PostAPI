@@ -1,0 +1,7 @@
+{
+    "bind": "127.0.0.1",
+    "port": 8081,
+    "debug_mode": false,
+    "access_key": "111",
+    "request_path": "/api/spamchecker/post_api"
+}
