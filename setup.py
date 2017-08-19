@@ -1,3 +1,5 @@
+from setuptools import setup
+
 setup(
     name='CNBlackList-PostAPI',
     license='BSD',
